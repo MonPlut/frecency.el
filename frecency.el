@@ -104,7 +104,7 @@
 
 (defgroup frecency nil
   "Settings for `frecency'."
-  :link '(url-link "http://github.com/alphapapa/frecency.el"))
+  :link '(url-link "http://github.com/MonPlut/frecency.el"))
 
 (defcustom frecency-max-timestamps 10
   "Maximum number of timestamps to record for each item."
